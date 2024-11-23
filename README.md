@@ -1,6 +1,6 @@
 # Suzano-DIO-PowerBI-StarSchema
 
-> Dashboard para planejamento de vendas, com diversas visões e vários ângulos de informação, utilizando o conceito consolidado do Star Schema e Data Warehouse, muito comum em bancos de dados estruturados de grandes empresas.
+> Dashboard voltado para o planejamento de vendas, oferecendo múltiplas perspectivas e diferentes camadas de informação, baseado no conceito consagrado de Star Schema e Data Warehouse, amplamente utilizado em bancos de dados estruturados de grandes organizações.
 
 ## Conceitos empregados:
 
